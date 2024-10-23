@@ -1,0 +1,22 @@
+.navbar-brand{
+    color:#ed0472;
+    font-size: 60px;
+    font-weight: 900;
+}
+.navbar-brand:hover{
+    color:#ed0472;
+    font-size: 60px;
+    font-weight: 900;
+}
+footer{
+    color: #ed0472;
+}
+
+@media (max-width: 770px) {
+    .navbar-brand{
+        justify-content: center;
+    }
+    .row{
+        display: block;
+    }
+}
